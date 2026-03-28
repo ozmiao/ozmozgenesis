@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/gCA-UMBtDVHemUMLpncRa/_buildManifest.js",
+    "static/gCA-UMBtDVHemUMLpncRa/_ssgManifest.js",
+    "static/gCA-UMBtDVHemUMLpncRa/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": []
+}
