@@ -22,5 +22,5 @@ NASIL ÇALIŞTIRILIR
 Repoyu bilgisayarınıza clone'layın: git clone https://github.com/ozmiao/ozmozgenesis
 Proje dizinine gidin: cd ozmozgenesis
 Gerekli paketleri yükleyin: npm install
-Ana dizinde bir .env dosyası oluşturun ve Gemini API anahtarınızı ekleyin: VITE_GEMINI_API_KEY=buraya_anahtari_yazin
+Ana dizinde bir .env dosyası oluşturun ve Gemini API anahtarınızı ekleyin: VITE_GEMINI_API_KEY=AIzaSyCLp4jwq7yYoUyDOaniitO9OeJCIdVr7W4
 Uygulamayı yerelde başlatın: npm run dev
