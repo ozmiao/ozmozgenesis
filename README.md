@@ -7,7 +7,7 @@ Twitter'da 42 farklı uygulama geliştiren bir yazılımcının hikayesine rastl
 Ozmoz, geliştiricisi tarafından sürdürülemeyen ancak potansiyeli olan projelerin başkaları tarafından devralındığı, yenilendiği ve canlandırıldığı bir Restorasyon Pazaryeri'dir. Gemini API, sisteme yüklenen atıl projeleri analiz ederek teknik borç haritası ve bir "Revival Score" (Canlanma Skoru) çıkarır. Böylece bir geliştiricinin bırakmak zorunda kaldığı projeyi, topluluk içinden yeni eller devralarak modernizasyon sürecini başlatır. Ozmoz, sevdiğimiz uygulamaların yapımcısı bıraksa bile topluluk eliyle sonsuza dek yaşamasını sağlar.
 
 CANLI DEMO
-Yayın Linki: https://ozmozgenesis.netlify.app
+Yayın Linki: https://ozmozrevival.netlify.app
 Demo Video: https://youtu.be/vIjdefezwHQ
 Gamma Slayt: https://gamma.app/docs/Ozmoz-The-Genesis-of-Digital-Archaeology-1lmqsvodq4j6h7h
 
