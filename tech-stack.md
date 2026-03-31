@@ -29,7 +29,7 @@ Modern yazılım geliştirme pratikleri (Vibe Coding) ve sürekli entegrasyon (C
 
 * **IDE / Editör:** **Cursor AI** (Vibe Coding ve Agent-based refactoring süreçleri için aktif olarak kullanılmıştır).
 * **Versiyon Kontrolü:** Git & GitHub (Branch tabanlı geliştirme ve dökümantasyon yönetimi).
-* **Dağıtım (Deployment):** Netlify (Küresel CDN, otomatik CI/CD ve güvenli çevre değişkeni yönetimi).
+* **Dağıtım (Deployment):** Vercel (Edge Runtime)
 * **Telemetri Simülasyonu:** CPU yükü, ağ gecikmesi ve "node discovery" gibi sistem verileri için gerçek zamanlı, state-tabanlı simülasyonlar.
 
 ---
