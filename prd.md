@@ -25,28 +25,30 @@
 
 | Kategori | Spesifikasyon |
 | :--- | :--- |
-| **Architecture** | React 18 + Vite (Zero-lag UI/UX) |
+| **Architecture** | Next.js 14+ & React 18 (Optimized SSR/CSR) |
 | **AI Processing** | Gemini API entegrasyonu ile "Context-Aware" analiz |
-| **Security** | API anahtarları asla Client-side'da tutulmaz; Netlify Secrets kullanılır |
+| **Security** | API anahtarları asla Client-side'da tutulmaz; **Vercel Environment Variables** kullanılır |
+| **Deployment** | **Vercel (Edge Runtime & Global CI/CD)** |
 | **Performance** | Analiz ve yol haritası üretim süreci < 15 saniye |
-| **Data Privacy** | Sadece mimari yapı taranır; kişisel veri/anahtar taranmaz |
 
 ---
 
 ## 4. User Journey (Kullanıcı Deneyimi)
 
-1.  **The Entry:** Kullanıcı terk edilmiş projenin URL'ini veya ismini sisteme girer.
-2.  **The Scan:** Ozmoz, projenin "Technical DNA"sını ve bağımlılıklarını tarar.
-3.  **The Reveal:** Görselleştirilmiş **Revival Score**, modern teknoloji yığını ve restorasyon rehberi sunulur.
-4.  **The Action:** Proje topluluğa açılır; kolektif canlandırma süreci resmi olarak başlar.
+1. **The Entry:** Kullanıcı terk edilmiş projenin URL'ini veya ismini sisteme girer.
+2. **The Scan:** Ozmoz, projenin "Technical DNA"sını ve bağımlılıklarını tarar.
+3. **The Reveal:** Görselleştirilmiş **Revival Score**, modern teknoloji yığını ve restorasyon rehberi sunulur.
+4. **The Action:** Proje topluluğa açılır; kolektif canlandırma süreci resmi olarak başlar.
 
 ---
 
 ## 5. Risk Mitigation & Security
 
-* **Scalability:** Proje, çoklu eşzamanlı analiz taleplerini karşılayacak şekilde asenkron yapıda (`Async/Await`) kurgulanmıştır.
+* **Scalability:** Proje, Vercel'in ölçeklenebilir sunucusuz (Serverless) yapısı üzerinde kurgulanmıştır.
 * **Safety:** Kod analizi sırasında sadece mimari şablonlara odaklanılır, hassas veri sızıntısı engellenir.
+* **Live Status:** [ozmozgenesis.vercel.app](https://ozmozgenesis.vercel.app)
 
 ---
-> **Status:** Finalized for Buildathon Submission
-> **Author:** Özge Özyorulmaz
+> **Status:** Finalized for Buildathon Submission  
+> **Author:** Özge Özyorulmaz  
+> **Deployment Platform:** Vercel
