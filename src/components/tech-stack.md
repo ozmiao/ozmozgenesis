@@ -13,5 +13,5 @@
 ## Development & Deployment
 - **Editor:** Cursor AI (Used for Vibe Coding and Agent-based refactoring).
 - **Version Control:** GitHub.
-- **Deployment:** Lovable.dev / Netlify.
+- **Deployment:** Vercel (Next.js Framework Support).
 - **Telemetry Simulation:** Real-time state-based updates for CPU load, latency, and node discovery.
