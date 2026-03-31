@@ -38,12 +38,13 @@ Projenin dijital arkeoloji ve nöral analiz mantığına doğrudan aşağıdaki 
 
 > **Mimar Notu:** Projenin dijital arkeoloji ve nöral analiz mantığına doğrudan aşağıdaki çekirdek dosyalardan ulaşabilirsiniz. Her bir bileşen, Ozmoz Genesis ekosisteminin farklı bir katmanını temsil eder.
 
-| Bileşen | Dosya Yolu (GitHub Source) | Fonksiyonel Açıklama |
+## 📂 Teknik Kod Referansları (Technical Blueprint)
+
+| Bileşen | Dosya Yolu (GitHub) | Fonksiyonel Açıklama |
 | :--- | :--- | :--- |
-| **🧠 AI Analiz Motoru** | [`/src/lib/gemini.ts`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/lib/gemini.ts) | Gemini 1.5 Flash entegrasyonu ve bağlam duyarlı (context-aware) prompt merkezi. |
-| **⚙️ Sistem Operasyonları** | [`/src/hooks/useOperations.ts`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/hooks/useOperations.ts) | Nöral analiz sürecini başlatan ve uygulama durumunu (state) yöneten çekirdek hook. |
-| **🛰️ Telemetri & Akış** | [`/src/components/Metrics.tsx`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/components/Metrics.tsx) | Canlı sistem metriklerini, CPU yükünü ve nöral bağlantıları simüle eden bileşen. |
-| **🕹️ Operasyon Merkezi** | [`/src/components/Operations.tsx`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/components/Operations.tsx) | Mimarın görevleri seçtiği ve restorasyon sürecini yönettiği ana kullanıcı arayüzü. |
+| **🧠 Ana Uygulama Mantığı** | [`/src/app/page.tsx`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/app/page.tsx) | Uygulamanın ana giriş noktası ve AI akışının yönetildiği merkez. |
+| **🕹️ Ozmoz Çekirdek Bileşeni** | [`/src/components/ozmoz-app.tsx`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/components/ozmoz-app.tsx) | Nöral analiz arayüzü ve kullanıcı etkileşimlerinin gerçekleştiği ana kod dosyası. |
+| **🎨 Görsel Tema** | [`/src/app/globals.css`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/app/globals.css) | Ozmoz'un fütüristik ve karanlık temasını sağlayan tasarım tanımları. |
 
 ---
 
