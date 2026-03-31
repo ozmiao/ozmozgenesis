@@ -8,7 +8,7 @@ Ozmoz, geliştiricisi tarafından sürdürülemeyen ancak potansiyeli olan proje
 
 CANLI DEMO
 Yayın Linki: https://ozmozrevival.netlify.app
-Demo Video: https://youtu.be/vIjdefezwHQ
+Demo Video: 
 Gamma Slayt: https://gamma.app/docs/Ozmoz-The-Genesis-of-Digital-Archaeology-1lmqsvodq4j6h7h
 
 KULLANILAN TEKNOLOJİLER
@@ -22,5 +22,5 @@ NASIL ÇALIŞTIRILIR
 Repoyu bilgisayarınıza clone'layın: git clone https://github.com/ozmiao/ozmozgenesis
 Proje dizinine gidin: cd ozmozgenesis
 Gerekli paketleri yükleyin: npm install
-Ana dizinde bir .env dosyası oluşturun ve Gemini API anahtarınızı ekleyin: VITE_GEMINI_API_KEY=AIzaSyCLp4jwq7yYoUyDOaniitO9OeJCIdVr7W4
+Ana dizinde bir .env dosyası oluşturun ve Gemini API anahtarınızı ekleyin: VITE_GEMINI_API_KEY=Kendi_API_Anahtarınızı_Buraya_Yazın
 Uygulamayı yerelde başlatın: npm run dev
