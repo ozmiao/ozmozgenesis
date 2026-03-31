@@ -42,10 +42,9 @@ Projenin dijital arkeoloji ve nöral analiz mantığına doğrudan aşağıdaki 
 
 | Bileşen | Dosya Yolu (GitHub) | Fonksiyonel Açıklama |
 | :--- | :--- | :--- |
-| **🧠 Ana Uygulama Mantığı** | [`/src/app/page.tsx`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/app/page.tsx) | Uygulamanın ana giriş noktası ve AI akışının yönetildiği merkez. |
-| **🕹️ Ozmoz Çekirdek Bileşeni** | [`/src/components/ozmoz-app.tsx`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/components/ozmoz-app.tsx) | Nöral analiz arayüzü ve kullanıcı etkileşimlerinin gerçekleştiği ana kod dosyası. |
-| **🎨 Görsel Tema** | [`/src/app/globals.css`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/app/globals.css) | Ozmoz'un fütüristik ve karanlık temasını sağlayan tasarım tanımları. |
-
+| **🕹️ Ozmoz Çekirdek Bileşeni** | [`/features/ozmoz-app.tsx`](https://github.com/ozmiao/ozmozgenesis/blob/main/features/ozmoz-app.tsx) | Nöral analiz arayüzü ve AI etkileşim mantığının bulunduğu ana kod dosyası. |
+| **🧠 Ana Uygulama Mantığı** | [`/src/app/page.tsx`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/app/page.tsx) | Uygulamanın giriş noktası ve sayfa yapısı. |
+| **🎨 Görsel Tema** | [`/src/app/globals.css`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/app/globals.css) | Ozmoz'un fütüristik temasını sağlayan tasarım kodları. |
 ---
 
 ---
