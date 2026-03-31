@@ -7,7 +7,7 @@
 ## 📽️ Sunum ve Canlı Demo
 | 🚀 Canlı Uygulama | 📺 Demo Videosu | 💎 Proje Sunumu (Gamma) |
 | :--- | :--- | :--- |
-| [Ozmoz Live](https://ozmozrevival.netlify.app) | [YouTube İzle](https://youtu.be/Hf9p-fWMCNU) | [Slide Deck](https://gamma.app/docs/Ozmoz-The-Genesis-of-Digital-Archaeology-1lmqsvodq4j6h7h) |
+| [Ozmoz Live](https://ozmozgenesis.vercel.app) | [YouTube İzle](https://youtu.be/Hf9p-fWMCNU) | [Slide Deck](https://gamma.app/docs/Ozmoz-The-Genesis-of-Digital-Archaeology-1lmqsvodq4j6h7h) |
 
 ---
 
@@ -29,7 +29,7 @@ Ozmoz; geliştiricisi tarafından sürdürülemeyen ancak potansiyeli olan proje
 * **Görsel & Animasyon:** Framer Motion, Lucide Icons
 * **AI Engine:** Google Gemini API (Google AI Studio üzerinden nöral analiz)
 * **Development Strategy:** Cursor AI (Vibe Coding & Agentic Workflow)
-* **Deployment:** Netlify Edge (Global CI/CD & Performance Optimization)
+* **Deployment:** Deployment: Vercel (Next.js Optimized CI/CD)
 
 ---
 
