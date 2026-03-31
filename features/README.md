@@ -1,24 +1,33 @@
-# 🛠️ Ozmoz: Core Features (Temel Özellikler)
+# 🧠 Ozmoz: Core AI & Protocol Features
 
-Bu klasör, projenin yapı taşlarını ve AI entegrasyonunun teknik detaylarını içerir.
+> **Durum:** Operasyonel  
+> **Yetki Düzeyi:** Architect (Mimar)  
+> **Protokol:** Digital Archaeology & Restoration
 
-# 1. Neural Code Audit (Sinirsel Kod Denetimi)
+Bu klasör, Ozmoz Genesis ekosisteminin "Dijital Arkeoloji" ve "Kod Canlandırma" süreçlerini yöneten teknik çekirdek bileşenleri temsil eder.
 
-Teknoloji: Google Gemini API (1.5 Flash/Pro)
-Fonksiyon: Terk edilmiş veya "ölü" kod depolarını analiz ederek mimari yapıyı, kullanılan eski kütüphaneleri ve teknik borçları tespit eder.
-Çıktı: Projeye özel bir "Revival Score" (Canlanma Puanı) üretir.
+---
 
-# 2. Modernization Roadmap (Modernizasyon Yol Haritası)
+### 🔍 1. Neural Code Audit (Sinirsel Kod Denetimi)
+* **Engine:** Google Gemini 1.5 Flash (Neural Analysis Layer)
+* **Protokol:** Atıl veya "ölü" kod depolarının dijital DNA'sını saniyeler içinde tarar. 
+* **Analiz:** Eski kütüphaneleri, güvenlik açıklarını ve teknik borç haritasını (Technical Debt) çıkarır.
+* **Çıktı:** Projenin hayata dönme potansiyelini belirleyen, AI tabanlı **"Revival Score"** üretilir.
 
-Teknoloji: AI-Driven Task Generation
-Fonksiyon: Analiz edilen projenin güncel stack'e (Vite, Tailwind, React 18 vb.) nasıl taşınacağına dair adım adım bir görev listesi oluşturur.
+### 🗺️ 2. Modernization Roadmap (Nöral Yol Haritası)
+* **Engine:** AI-Driven Task Generation Protocol
+* **Fonksiyon:** Analiz edilen projenin modern ekosisteme (Vite, React 18, Tailwind) nasıl entegre edileceğine dair dinamik bir reçete oluşturur.
+* **Süreç:** Eski mimariyi koruyarak, modern standartlara geçiş için adım adım teknik görevler (tasks) tanımlar.
 
-# 3. Community Restoration Interface (Topluluk Restorasyon Arayüzü)
+### 👥 3. Collective Restoration Hub (Topluluk Arayüzü)
+* **Arayüz:** React & Framer Motion (High-Fidelity Interface)
+* **Etkileşim:** Mimar, Tasarımcı ve Test Uzmanı rollerinin dijital bir "laboratuvar" ortamında iş birliği yapmasını sağlar.
+* **Görselleştirme:** Canlı sistem metrikleri ve 3D efektlerle desteklenen interaktif operasyon panosu.
 
-Teknoloji: React & Framer Motion
-Fonksiyon: Kullanıcıların projeler üzerinde roller (Geliştirici, Tasarımcı, Tester) seçerek iş birliği yapmasını sağlayan interaktif dashboard.
+### 🚀 4. Genesis Deployment (Hızlı Yayınlama)
+* **Altyapı:** Netlify CI/CD & Global Node Network
+* **Otomasyon:** Restore edilen projelerin tek tıkla dünya ağına (Live Production) bağlanmasını sağlar.
+* **Güvenlik:** API anahtarları ve hassas veriler için uçtan uca şifrelenmiş "Environment Secrets" yönetimi.
 
-# 4. Direct Deployment (Hızlı Yayınlama)
-
-Teknoloji: Netlify CI/CD Integration
-Fonksiyon: Modernize edilen kodun tek tıkla canlıya alınmasını sağlayan altyapı desteği.
+---
+> *"Geçmişin tozlu kodlarını, geleceğin nöral ağlarıyla yeniden inşa ediyoruz."*
