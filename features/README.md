@@ -35,7 +35,6 @@ Bu klasör, Ozmoz Genesis ekosisteminin "Dijital Arkeoloji" ve "Kod Canlandırma
 
 Projenin dijital arkeoloji ve nöral analiz mantığına doğrudan aşağıdaki çekirdek dosyalardan ulaşabilirsiniz:
 
-## 📂 Teknik Kod Referansları (Technical Blueprint)
 
 > **Mimar Notu:** Projenin dijital arkeoloji ve nöral analiz mantığına doğrudan aşağıdaki çekirdek dosyalardan ulaşabilirsiniz. Her bir bileşen, Ozmoz Genesis ekosisteminin farklı bir katmanını temsil eder.
 
