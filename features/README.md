@@ -25,9 +25,9 @@ Bu klasör, Ozmoz Genesis ekosisteminin "Dijital Arkeoloji" ve "Kod Canlandırma
 * **Görselleştirme:** Canlı sistem metrikleri ve 3D efektlerle desteklenen interaktif operasyon panosu.
 
 ### 🚀 4. Genesis Deployment (Hızlı Yayınlama)
-* **Altyapı:** Netlify CI/CD & Global Node Network
-* **Otomasyon:** Restore edilen projelerin tek tıkla dünya ağına (Live Production) bağlanmasını sağlar.
-* **Güvenlik:** API anahtarları için uçtan uca şifrelenmiş "Environment Secrets" yönetimi.
+* **Altyapı:** Vercel (Edge Runtime & CI/CD)
+* **Otomasyon:** Restore edilen projelerin Vercel'in global ağında (Live Production) anında yayına alınmasını sağlar.
+* **Güvenlik:** API anahtarları için Vercel "Environment Secrets" katmanı ile uçtan uca şifreleme.
 
 ---
 
