@@ -7,7 +7,7 @@
 ## 📽️ Sunum ve Canlı Demo
 | 🚀 Canlı Uygulama | 📺 Demo Videosu | 💎 Proje Sunumu (Gamma) |
 | :--- | :--- | :--- |
-| [Ozmoz Live](https://ozmozrevival.netlify.app) | [YouTube İzle](BURAYA_YOUTUBE_LINKINI_YAPISTIR) | [Slide Deck](https://gamma.app/docs/Ozmoz-The-Genesis-of-Digital-Archaeology-1lmqsvodq4j6h7h) |
+| [Ozmoz Live](https://ozmozrevival.netlify.app) | [YouTube İzle](https://youtu.be/Hf9p-fWMCNU) | [Slide Deck](https://gamma.app/docs/Ozmoz-The-Genesis-of-Digital-Archaeology-1lmqsvodq4j6h7h) |
 
 ---
 
