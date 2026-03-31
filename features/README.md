@@ -47,5 +47,5 @@ Projenin dijital arkeoloji ve nöral analiz mantığına doğrudan aşağıdaki 
 | **🎨 Görsel Tema** | [`/src/app/globals.css`](https://github.com/ozmiao/ozmozgenesis/blob/main/src/app/globals.css) | Ozmoz'un fütüristik temasını sağlayan tasarım kodları. |
 ---
 
----
+
 > *"Geçmişin tozlu kodlarını, geleceğin nöral ağlarıyla yeniden inşa ediyoruz."*
