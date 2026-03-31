@@ -1,4 +1,4 @@
-# 🌀 Ozmoz: Digital Restoration Factory
+# 🌀 Ozmoz Genesis: Digital Restoration Factory
 
 > "Ölü kodlara can, dijital dünyaya nefes."
 
