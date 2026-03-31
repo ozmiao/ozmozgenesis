@@ -25,9 +25,11 @@ Platformun kalbi olan "Neural Analyze" özelliği, legacy kod yapılarını anla
 ---
 
 ## 🚀 Development & Deployment Ecosystem
-Modern yazılım geliştirme pratikleri (Vibe Coding) ve sürekli entegrasyon (CI/CD) standartları uygulanmıştır.
+
+Modern yazılım geliştirme pratikleri (**Vibe Coding**) ve sürekli entegrasyon (CI/CD) standartları titizlikle uygulanmıştır.
 
 * **Editor & IDE:** **Cursor AI** (Vibe Coding ve Agent-based refactoring süreçleri için aktif olarak kullanılmıştır).
 * **Version Control:** Git & GitHub (Branch tabanlı geliştirme ve dökümantasyon yönetimi).
-* **Deployment:** Netlify Edge (Küresel CDN, otomatik CI/CD ve güvenli çevre değişkeni yönetimi).
-* **Telemetry Simulation:** CPU yükü, ağ gecikmesi ve "node discovery" gibi
+* **Deployment:** **Vercel (Edge Runtime, Global CI/CD ve Güvenli Çevre Değişkeni Yönetimi).**
+* **Telemetry Simulation:** Gerçek zamanlı CPU yükü, ağ gecikmesi ve "node discovery" gibi sistem metriklerinin görselleştirilmesi için gelişmiş telemetri simülasyonları entegre edilmiştir.
+* **AI Engine:** Google Gemini 1.5 Flash (Düşük gecikmeli, yüksek doğruluklu nöral analiz katmanı).
