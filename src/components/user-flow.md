@@ -24,7 +24,7 @@ This document outlines the step-by-step architectural journey a user (Architect)
 
 ## 4. Verification Phase (Auth)
 * **Access Gate:** If not authenticated, the user is redirected to the "Access Portal."
-* **Credentials:** Enters "Architect Identifier" (Name) and the invite-only code "1186".
+* **Credentials:** Enters "Architect Identifier" (Name) and the invite-only code only given to trusted testers.
 * **Verification:** System validates the protocol and grants access to Lab Reports.
 
 ## 5. Deployment & Success
